@@ -1,0 +1,14 @@
+[
+  {
+    "task": "Create a JSON configuration for an AWS Lambda function that sets memory allocation to 256MB and timeout to 10 seconds",
+    "format": "json"
+  },
+  {
+    "task": "Write a Python function to extract the AWS region from a given ARN (Amazon Resource Name)",
+    "format": "python"
+  },
+  {
+    "task": "Create a regular expression to validate a valid AWS EC2 instance type (like t2.micro, m5.large, etc.)",
+    "format": "regex"
+  }
+]
